@@ -10,3 +10,15 @@ C:\Users\сом\Desktop\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.exe
 C:\Users\сом\Desktop\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.pdb
 C:\Users\сом\Desktop\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.Form2.resources
 C:\Users\сом\Desktop\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.Form3.resources
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\bin\Debug\LBD_23_02_22.exe.config
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\bin\Debug\LBD_23_02_22.exe
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\bin\Debug\LBD_23_02_22.pdb
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.csprojAssemblyReference.cache
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.Form1.resources
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.Form2.resources
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.Form3.resources
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.Properties.Resources.resources
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.csproj.GenerateResource.cache
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.csproj.CoreCompileInputs.cache
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.exe
+C:\Users\сом\Desktop\LBD_22-main\LBD_23_02_22\LBD_23_02_22\obj\Debug\LBD_23_02_22.pdb

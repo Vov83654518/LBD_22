@@ -60,5 +60,10 @@ namespace LBD_23_02_22
         {
             this.Close();
         }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

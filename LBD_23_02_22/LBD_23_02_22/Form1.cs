@@ -57,6 +57,7 @@ namespace LBD_23_02_22
         {
             try
             {
+                dataGridView1.Rows.Clear();
                 Create_Table(Convert.ToInt32(textBox1.Text), Convert.ToInt32(textBox1.Text));
             }
             catch (Exception)
@@ -82,7 +83,6 @@ namespace LBD_23_02_22
                             for (int p = 0; p < y; p++)
                                 if (i - 1 == p) a[o][p] = Convert.ToDouble(dataGridView1.Rows[o].Cells[y].Value.ToString());
                                 else a[o][p] = Convert.ToDouble(dataGridView1.Rows[o].Cells[p].Value.ToString());
-
                         }
                         double[][] ad = new double[y][];
                         for (int o = 0; o < y; o++)
@@ -200,6 +200,19 @@ namespace LBD_23_02_22
                 else textBox3.Text = "No";
             }
             else textBox3.Text = "No";
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            int y = dataGridView1.Rows.Count, x = dataGridView1.Columns.Count;
+            Random random = new Random();
+            for (int i = 0; i < x; ++i)
+            {
+                for (int o = 0; o < y; o++)
+                {
+                    dataGridView1.Rows[o].Cells[i].Value = random.Next(-100,100).ToString();
+                }
+            }
         }
     }
 }

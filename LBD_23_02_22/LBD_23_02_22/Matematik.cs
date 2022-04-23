@@ -15,6 +15,7 @@ namespace LBD_23_02_22
                 for (int o = 0; o < n; ++o) a2[i, o] = Convert.ToDouble(a[i][o]);
             return DetRec(a2);
         }
+
         private static double DetRec(double[,] matrix)
         {
             if (matrix.Length == 4)
